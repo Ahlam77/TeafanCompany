@@ -8,27 +8,27 @@ body {
     font-family: 'Poppins', sans-serif;
 
 }
-header{
-    display: flex;
-    width: 90%;
-    height: 10vh;
-    margin: auto;
-    
+
 }
 .logo-container{
-    object-fit: cover;
-    border-radius: 50%;
-    width: 100px;
-    height: 185px;
+    width: 50%;
+    min-height: auto;
+    padding-left: 8%;
+    padding-right: 8%;
+    box-sizing: border-box;
+    overflow: hidden;
+
 }
-.logo {
-    font: weight 400px;
-    margin: 5px;
+
     
 }
-nav{
-    flex: 2;
+.navbar{
+    width: 100%;
+    display: flex;
+    align-items:center ;
 }
-.nav-links{
-    justify-content: space-around;
+.logo{
+    width: 50px;
+    cursor: pointer;
+    margin: 30px;
 }
