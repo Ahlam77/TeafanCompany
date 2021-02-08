@@ -7,3 +7,10 @@
 body {
     font-family: 'Poppins', sans-serif;
 }
+.logo-container{
+    flex: 1;
+}
+.logo {
+    font: weight 400px;
+    margin: 5px;
+}
