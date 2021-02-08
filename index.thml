@@ -1,9 +1,8 @@
 <!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8">
-<title>Teafan Travel Egency</title>
-<meta name="description" content="Bokking flight tickets, Hotels reservation, Study abrode services"/>
+<html lang="en">
 
-</head>
-</html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Teafan Travel company</title>
+  <link rel="stylesheet" href="style.css">
