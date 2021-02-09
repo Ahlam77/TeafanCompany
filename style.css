@@ -1,7 +1,7 @@
 * {
     margin: 0px;
     padding: 0px;
-    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
     
 }
 body {
@@ -9,35 +9,9 @@ body {
 
 }
 .bannar{
-    width: 100%;
-    height: 100vh;
-    background-image:linear-gradient(rgba(0,0,0,0.75),((rgba(0,0,0,0.75)), url(imeges/turquoise-tropical-beautiful-outdoors-tourism.jpg);
-    background-size: cover;
-    background-position: center;
-}
-.logo-container{
-    width: 50%;
-    min-height: auto;
-    padding-left: 8%;
-    padding-right: 8%;
-    box-sizing: border-box;
-    overflow: hidden;
-
+  background-image: url();
+  background: rgba(248, 229, 211, 0.7);
+  width: 50%;
+  height: 50%;
 }
     
-}
-.navbar{
-    width: 100%;
-    display: flex;
-    align-items:center ;
-}
-.logo{
-    width: 50%;
-    cursor:pointer
-    margin: 10px;
-}
-.menu-icon{
-    width: 25px; 
-    cursor: pointer;
-
-}
